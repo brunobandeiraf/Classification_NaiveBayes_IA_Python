@@ -22,6 +22,3 @@ O Naive Bayes é um conjunto de algoritmos de classificação probabilística ba
 |-----------|--------------------|--------------------|
 | **Positivo**  | Verdadeiro Positivo | Falso Negativo     |
 | **Negativo**  | Falso Positivo      | Verdadeiro Negativo|
-
-
-Teste commit
