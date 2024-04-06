@@ -29,7 +29,7 @@ class request_body(BaseModel):
     Transporte_Caminhada: int
     
 # Carregar Modelo
-modelo_obesidade = joblib.load('./api_modelo_obesidade.pkl')
+modelo_obesidade = joblib.load('./modelo_obesidade.pkl')
 
 @app.route('/predict', methods=['POST'])
 @validate()
